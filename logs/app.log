@@ -1,0 +1,907 @@
+17-02-2024 12:45:05.759 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:45:06.377 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:45:06.380 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:45:07.121 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:45:09.797 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+17-02-2024 12:45:09.798 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:45:09.799 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+17-02-2024 12:46:02.401 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:46:02.973 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:46:02.974 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:46:03.602 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:46:05.857 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+17-02-2024 12:46:05.857 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:46:05.858 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+17-02-2024 12:49:45.300 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:49:45.966 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:49:45.967 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:49:46.670 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:49:49.831 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+17-02-2024 12:49:49.831 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:49:49.832 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+17-02-2024 12:50:12.432 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:50:13.140 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:50:13.141 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:50:13.943 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:50:16.370 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+17-02-2024 12:50:16.371 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:50:16.371 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+17-02-2024 12:50:36.013 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:50:36.602 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:50:36.602 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:50:37.310 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:50:40.211 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+17-02-2024 12:50:40.211 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:50:40.212 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+17-02-2024 12:57:22.941 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+17-02-2024 12:57:23.591 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+17-02-2024 12:57:23.592 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+17-02-2024 12:57:24.311 [main] INFO  stepdefinition.UserRegistrationSteps - Registration credentials set for user: {}
+17-02-2024 12:57:28.300 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+17-02-2024 12:57:28.300 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 09:55:42.726 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 09:55:42.730 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 09:55:42.731 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+19-02-2024 09:55:43.904 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+19-02-2024 09:55:43.905 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+19-02-2024 09:55:43.905 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 09:58:42.217 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 09:58:42.221 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 09:58:42.222 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+19-02-2024 09:58:43.341 [main] ERROR stepdefinition.Hooks - Scenario failed! But no response was set in the TestContext.
+19-02-2024 09:58:43.342 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+19-02-2024 09:58:43.342 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 10:00:46.592 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 10:00:46.596 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 10:00:46.597 [main] INFO  stepdefinition.Hooks - Executing scenario: Successful registration with valid credentials
+19-02-2024 10:00:51.114 [main] INFO  stepdefinition.Hooks - Finished scenario: Successful registration with valid credentials
+19-02-2024 10:00:51.114 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 10:09:02.010 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 10:09:02.014 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 10:09:02.015 [main] INFO  stepdefinition.Hooks - Executing scenario: Unsuccessful registration with invalid credentials
+19-02-2024 10:09:05.138 [main] INFO  stepdefinition.Hooks - Finished scenario: Unsuccessful registration with invalid credentials
+19-02-2024 10:09:05.138 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 10:44:46.589 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 10:44:46.594 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 10:44:46.595 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate get all products functionality
+19-02-2024 10:44:49.924 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate get all products functionality
+19-02-2024 10:44:49.924 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 10:45:18.919 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 10:45:18.925 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 10:45:18.927 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate get all products functionality
+19-02-2024 10:45:22.320 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate get all products functionality
+19-02-2024 10:45:22.320 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 11:24:36.708 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:24:36.713 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:24:36.714 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:24:39.422 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:24:39.489 [main] ERROR stepdefinition.Hooks - {
+    "error": "The product id must be a number."
+}
+19-02-2024 11:24:39.489 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:24:39.490 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 11:25:35.546 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:25:35.551 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:25:35.551 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:25:38.528 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:25:38.549 [main] ERROR stepdefinition.Hooks - {
+    "error": "The product id must be a number."
+}
+19-02-2024 11:25:38.550 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a product functionality with valid product id
+19-02-2024 11:25:38.550 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 11:29:55.351 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:29:55.355 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:29:55.356 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a product functionality with product id
+19-02-2024 11:29:57.955 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a product functionality with product id
+19-02-2024 11:29:58.019 [main] ERROR stepdefinition.Hooks - {
+    "id": 6483,
+    "category": "candy",
+    "name": "Cadbury Milk Chocolate",
+    "manufacturer": "Cadbury",
+    "price": 2.65,
+    "current-stock": 2,
+    "inStock": true
+}
+19-02-2024 11:29:58.020 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a product functionality with product id
+19-02-2024 11:29:58.021 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 11:30:30.877 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:30:30.882 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:30:30.882 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a product functionality with product id
+19-02-2024 11:30:34.032 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a product functionality with product id
+19-02-2024 11:30:34.033 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 11:36:57.159 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 11:36:57.163 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 11:36:57.165 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new cart functionality
+19-02-2024 11:37:00.365 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new cart functionality
+19-02-2024 11:37:00.366 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 12:25:12.132 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 12:25:12.136 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 12:25:12.137 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:25:15.920 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:25:15.929 [main] ERROR stepdefinition.Hooks - {
+    "error": "No cart with id null."
+}
+19-02-2024 12:25:15.930 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:25:15.930 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 12:27:06.051 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 12:27:06.058 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 12:27:06.058 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:27:10.578 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:27:10.586 [main] ERROR stepdefinition.Hooks - {
+    "error": "No cart with id null."
+}
+19-02-2024 12:27:10.586 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:27:10.587 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 12:37:52.019 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 12:37:52.025 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 12:37:52.025 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:37:58.241 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to add an item to cartequest functionality
+19-02-2024 12:37:58.242 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:03:53.631 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:03:53.635 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:03:53.635 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:04:59.475 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:04:59.476 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:24:23.015 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:24:23.019 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:24:23.019 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:24:29.596 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+19-02-2024 13:24:29.601 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 111656386,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-19T12:24:25.810Z"
+}
+19-02-2024 13:24:29.602 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:24:29.602 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:27:03.682 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:27:03.687 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:27:03.687 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new cart functionality
+19-02-2024 13:27:07.607 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new cart functionality
+19-02-2024 13:27:07.607 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:27:21.886 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:27:21.891 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:27:21.891 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:27:29.004 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+19-02-2024 13:27:29.009 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 509232667,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-19T12:27:24.521Z"
+}
+19-02-2024 13:27:29.009 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:27:29.009 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:28:23.750 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:28:23.754 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:28:23.755 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:28:31.304 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+19-02-2024 13:28:31.309 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 96286815,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-19T12:28:26.520Z"
+}
+19-02-2024 13:28:31.309 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:28:31.310 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:38:17.777 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:38:17.782 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:38:17.783 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:38:24.636 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+19-02-2024 13:38:24.641 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 874002450,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-19T12:38:20.474Z"
+}
+19-02-2024 13:38:24.641 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:38:24.641 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+19-02-2024 13:59:01.126 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+19-02-2024 13:59:01.131 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+19-02-2024 13:59:01.132 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+19-02-2024 13:59:08.985 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+19-02-2024 13:59:08.991 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 595825969,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-19T12:59:04.313Z"
+}
+19-02-2024 13:59:08.991 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+19-02-2024 13:59:08.992 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 09:27:14.391 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 09:27:14.396 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 09:27:14.397 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+20-02-2024 09:27:23.565 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a cart functionality
+20-02-2024 09:27:23.577 [main] ERROR stepdefinition.Hooks - {
+    "items": [
+        {
+            "id": 277620626,
+            "productId": 6483,
+            "quantity": 2
+        }
+    ],
+    "created": "2024-02-20T08:27:19.017Z"
+}
+20-02-2024 09:27:23.578 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+20-02-2024 09:27:23.579 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 09:28:35.950 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 09:28:35.955 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 09:28:35.958 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+20-02-2024 09:28:45.042 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+20-02-2024 09:28:45.043 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 10:56:46.002 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 10:56:46.007 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 10:56:46.007 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a cart functionality
+20-02-2024 10:56:53.593 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a cart functionality
+20-02-2024 10:56:53.594 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 10:57:02.980 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 10:57:02.985 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 10:57:02.986 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 10:57:10.652 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 10:57:10.658 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 514842781,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 142734845,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 10:57:10.659 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 10:57:10.660 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 10:59:52.106 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 10:59:52.111 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 10:59:52.111 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 10:59:59.906 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 10:59:59.918 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 965970458,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 108848691,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 10:59:59.920 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 10:59:59.920 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 11:26:13.645 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 11:26:13.650 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 11:26:13.650 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 11:26:23.028 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 11:26:23.043 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 291642545,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 488802774,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 11:26:23.044 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 11:26:23.044 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 11:37:58.514 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 11:37:58.521 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 11:37:58.522 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 11:38:08.879 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 11:38:08.900 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 759445825,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 807652591,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 11:38:08.901 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 11:38:08.901 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 11:40:00.589 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 11:40:00.595 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 11:40:00.597 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 11:40:10.843 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 11:40:10.859 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 515403814,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 505793666,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 11:40:10.860 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 11:40:10.861 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+20-02-2024 11:41:30.969 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+20-02-2024 11:41:30.988 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+20-02-2024 11:41:30.989 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+20-02-2024 11:41:40.726 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+20-02-2024 11:41:40.738 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 798280028,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 865654513,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+20-02-2024 11:41:40.738 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+20-02-2024 11:41:40.738 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 14:24:25.792 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 14:24:25.800 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 14:24:25.801 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 14:24:34.717 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 14:24:34.723 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 139487178,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 628298665,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 14:24:34.723 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 14:24:34.724 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 14:51:05.101 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 14:51:05.105 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 14:51:05.105 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 14:51:12.579 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 14:51:12.587 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 480196592,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 830641753,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 14:51:12.588 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 14:51:12.588 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:05:50.044 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:05:50.049 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:05:50.050 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:05:58.729 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:05:58.744 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 94709242,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 318070842,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:05:58.745 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:05:58.745 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:10:39.422 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:10:39.431 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:10:39.432 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:10:48.949 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:10:48.957 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 400864946,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 633624445,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:10:48.958 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:10:48.958 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:14:46.651 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:14:46.655 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:14:46.656 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:14:55.294 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:14:55.305 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 406928738,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 203552602,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:14:55.305 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:14:55.306 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:15:30.171 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:15:30.176 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:15:30.177 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:15:39.678 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:15:39.689 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 943590841,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 613112260,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:15:39.689 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:15:39.690 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:20:33.624 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:20:33.628 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:20:33.628 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:20:42.672 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:20:42.679 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 151286594,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 691734200,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:20:42.681 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:20:42.681 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:23:30.077 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:23:30.083 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:23:30.084 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:23:39.166 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:23:39.176 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 191382843,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 691404484,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:23:39.176 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:23:39.176 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:25:21.088 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:25:21.093 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:25:21.094 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:25:30.105 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:25:30.113 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 428988925,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 196704499,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:25:30.116 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:25:30.117 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:28:30.279 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:28:30.290 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:28:30.291 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:28:37.595 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:28:37.605 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 485303623,
+        "productId": 6483,
+        "quantity": 2
+    }
+]
+25-02-2024 15:28:37.606 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:28:37.606 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:37:48.987 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:37:48.992 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:37:48.993 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:37:58.017 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:37:58.026 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 481351403,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 205991284,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:37:58.026 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:37:58.027 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:41:11.037 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:41:11.041 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:41:11.042 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:41:20.585 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:41:20.597 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 458997071,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 102058969,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:41:20.597 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:41:20.598 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:42:52.272 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:42:52.277 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:42:52.277 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:43:00.558 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:43:00.569 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 604406947,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 372896298,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:43:00.570 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:43:00.570 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 15:49:29.408 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 15:49:29.417 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 15:49:29.418 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 15:49:38.744 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 15:49:38.757 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 815078261,
+        "productId": 6483,
+        "quantity": 2
+    },
+    {
+        "id": 485274570,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 15:49:38.757 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 15:49:38.757 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 16:24:53.491 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 16:24:53.496 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 16:24:53.497 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 16:25:01.944 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 16:25:01.960 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 179091575,
+        "productId": 4646,
+        "quantity": 1
+    },
+    {
+        "id": 659126392,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 16:25:01.961 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 16:25:01.961 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 16:26:30.247 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 16:26:30.252 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 16:26:30.254 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 16:26:38.947 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 16:26:38.967 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 112033761,
+        "productId": 4646,
+        "quantity": 1
+    },
+    {
+        "id": 669194495,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 16:26:38.968 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 16:26:38.968 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 16:51:48.097 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 16:51:48.102 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 16:51:48.103 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 16:51:56.009 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 16:51:56.024 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 283975010,
+        "productId": 4646,
+        "quantity": 1
+    },
+    {
+        "id": 991711182,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 16:51:56.025 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 16:51:56.026 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 16:56:32.023 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 16:56:32.028 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 16:56:32.028 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 16:56:41.184 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 16:56:41.199 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 729564554,
+        "productId": 4646,
+        "quantity": 1
+    },
+    {
+        "id": 214663558,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 16:56:41.200 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 16:56:41.203 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 16:59:49.828 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 16:59:49.834 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 16:59:49.835 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+25-02-2024 16:59:58.667 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get cart items functionality
+25-02-2024 16:59:58.675 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": 206274714,
+        "productId": 4646,
+        "quantity": 1
+    },
+    {
+        "id": 542349879,
+        "productId": 4643,
+        "quantity": 1
+    }
+]
+25-02-2024 16:59:58.675 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+25-02-2024 16:59:58.676 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 17:27:28.082 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 17:27:28.087 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 17:27:28.087 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to modify an item functionality
+25-02-2024 17:27:35.491 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to modify an item functionality
+25-02-2024 17:27:35.492 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 17:36:11.810 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 17:36:11.814 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 17:36:11.815 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to replace an item functionality
+25-02-2024 17:36:20.724 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to replace an item functionality
+25-02-2024 17:36:20.724 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 17:49:23.409 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 17:49:23.417 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 17:49:23.418 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to delete an item functionality
+25-02-2024 17:49:33.726 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to delete an item functionality
+25-02-2024 17:49:33.727 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:04:08.578 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:04:08.582 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:04:08.583 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:04:16.145 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+25-02-2024 23:04:16.151 [main] ERROR stepdefinition.Hooks - {
+    "error": "Missing Authorization header."
+}
+25-02-2024 23:04:16.152 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:04:16.152 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:12:32.765 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:12:32.770 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:12:32.771 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:12:36.677 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+25-02-2024 23:12:36.685 [main] ERROR stepdefinition.Hooks - {
+    "error": "API client already registered. Try a different email."
+}
+25-02-2024 23:12:36.686 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:12:36.686 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:13:29.852 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:13:29.856 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:13:29.857 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:13:39.812 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:13:39.812 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:27:09.973 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:27:09.978 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:27:09.979 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:27:19.019 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+25-02-2024 23:27:19.025 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": "UENeVjdC3TLxnoycPpeYm",
+        "items": [
+            {
+                "id": 248300924,
+                "productId": 6483,
+                "quantity": 1
+            }
+        ],
+        "customerName": "inar academy",
+        "created": "2024-02-25T22:27:18.292Z",
+        "comment": ""
+    }
+]
+25-02-2024 23:27:19.025 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:27:19.025 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:29:00.181 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:29:00.186 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:29:00.187 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:29:03.749 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+25-02-2024 23:29:03.757 [main] ERROR stepdefinition.Hooks - {
+    "error": "API client already registered. Try a different email."
+}
+25-02-2024 23:29:03.757 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:29:03.757 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+25-02-2024 23:29:19.441 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+25-02-2024 23:29:19.445 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+25-02-2024 23:29:19.445 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+25-02-2024 23:29:28.769 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+25-02-2024 23:29:28.785 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": "szNUve6VvG7R0Fxq0HAM2",
+        "items": [
+            {
+                "id": 338615259,
+                "productId": 6483,
+                "quantity": 1
+            }
+        ],
+        "customerName": "inar academy",
+        "created": "2024-02-25T22:29:27.682Z",
+        "comment": ""
+    }
+]
+25-02-2024 23:29:28.786 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+25-02-2024 23:29:28.786 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 11:52:51.442 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 11:52:51.447 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 11:52:51.449 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get cart items functionality
+26-02-2024 11:53:03.509 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get cart items functionality
+26-02-2024 11:53:03.510 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 15:50:27.173 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 15:50:27.190 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 15:50:27.191 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+26-02-2024 15:50:38.147 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+26-02-2024 15:50:38.153 [main] ERROR stepdefinition.Hooks - [
+    {
+        "id": "oWUVP5Uy8wz4uv3In6-mC",
+        "items": [
+            {
+                "id": 443853583,
+                "productId": 6483,
+                "quantity": 1
+            }
+        ],
+        "customerName": "inar academy",
+        "created": "2024-02-26T14:50:35.669Z",
+        "comment": ""
+    }
+]
+26-02-2024 15:50:38.154 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+26-02-2024 15:50:38.154 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 15:51:00.317 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 15:51:00.321 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 15:51:00.322 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+26-02-2024 15:51:04.310 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to create a new order functionality
+26-02-2024 15:51:04.336 [main] ERROR stepdefinition.Hooks - {
+    "error": "API client already registered. Try a different email."
+}
+26-02-2024 15:51:04.336 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+26-02-2024 15:51:04.336 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 15:51:11.211 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 15:51:11.215 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 15:51:11.217 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to create a new order functionality
+26-02-2024 15:51:22.438 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to create a new order functionality
+26-02-2024 15:51:22.438 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:10:45.729 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:10:45.733 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:10:45.734 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a single order functionality
+26-02-2024 16:10:55.699 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a single order functionality
+26-02-2024 16:10:55.706 [main] ERROR stepdefinition.Hooks - {
+    "created": true,
+    "orderId": "JZno4OnmhZLjgYSwq5s5U"
+}
+26-02-2024 16:10:55.706 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a single order functionality
+26-02-2024 16:10:55.708 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:17:02.797 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:17:02.801 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:17:02.802 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a single order functionality
+26-02-2024 16:17:12.358 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a single order functionality
+26-02-2024 16:17:12.366 [main] ERROR stepdefinition.Hooks - {
+    "id": "fEQ1D8mc84pGqoAt7rHCH",
+    "items": [
+        {
+            "id": 456684330,
+            "productId": 6483,
+            "quantity": 1
+        }
+    ],
+    "customerName": "inar academy",
+    "createdBy": "c849935b69a7c253bafb717153c357ba671fb4bd11b6e9eaccec162b97301219",
+    "created": "2024-02-26T15:17:11.081Z",
+    "timestamp": 1708960631081,
+    "processed": false,
+    "comment": ""
+}
+26-02-2024 16:17:12.367 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a single order functionality
+26-02-2024 16:17:12.367 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:22:19.090 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:22:19.094 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:22:19.094 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a single order functionality
+26-02-2024 16:22:31.034 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a single order functionality
+26-02-2024 16:22:31.046 [main] ERROR stepdefinition.Hooks - {
+    "id": "KCkIZInKxmyUyTBrMu6tG",
+    "items": [
+        {
+            "id": 227689701,
+            "productId": 6483,
+            "quantity": 1
+        }
+    ],
+    "customerName": "inar academy",
+    "createdBy": "5510f3230791dc0a187c1100b6ae18f16e1a061505040f243a060dc04da1dac6",
+    "created": "2024-02-26T15:22:28.938Z",
+    "timestamp": 1708960948938,
+    "processed": false,
+    "comment": ""
+}
+26-02-2024 16:22:31.047 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a single order functionality
+26-02-2024 16:22:31.047 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:22:49.809 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:22:49.814 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:22:49.814 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a single order functionality
+26-02-2024 16:22:53.521 [main] ERROR stepdefinition.Hooks - Scenario failed! Logging response body for failed scenario: Validate to get a single order functionality
+26-02-2024 16:22:53.538 [main] ERROR stepdefinition.Hooks - {
+    "error": "API client already registered. Try a different email."
+}
+26-02-2024 16:22:53.539 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a single order functionality
+26-02-2024 16:22:53.539 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:23:11.712 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:23:11.716 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:23:11.717 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to get a single order functionality
+26-02-2024 16:23:22.720 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to get a single order functionality
+26-02-2024 16:23:22.721 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:35:45.112 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:35:45.116 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:35:45.117 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to update an order functionality
+26-02-2024 16:35:57.126 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to update an order functionality
+26-02-2024 16:35:57.126 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::
+26-02-2024 16:42:25.281 [main] INFO  utils.ConfigManager - Application properties loaded successfully.
+26-02-2024 16:42:25.290 [main] INFO  stepdefinition.Hooks - ::::::::::::::: TEST INFORMARION :::::::::::::::
+26-02-2024 16:42:25.291 [main] INFO  stepdefinition.Hooks - Executing scenario: Validate to delete an order functionality
+26-02-2024 16:42:36.982 [main] INFO  stepdefinition.Hooks - Finished scenario: Validate to delete an order functionality
+26-02-2024 16:42:36.983 [main] INFO  stepdefinition.Hooks - ::::::::::::::::::::::::::::::::::::::::::::::::

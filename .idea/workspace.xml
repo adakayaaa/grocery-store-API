@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0275de6c-7941-44f2-90c2-bc3c72bd5bb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/request/AddAnItemToCartReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/request/ModifyCartItemsRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/request/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/request/createANewOrderReq/CreateANewOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/request/updateOrderReq/UpdateAnOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/response/createANewOrder/CreateANewOrderRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/response/getACart/GetACartRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/response/getACart/InItemGetACartRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/response/getASingleOrder/GetASingleOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/response/getASingleOrder/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/APIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/BaseSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/CommonSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/UserRegistrationSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/AddAnItemToCartequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/CreateANewCartStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/DeleteAnItemStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/GetACartStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/GetCartItemsStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/ModifyAnItemStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/cart/ReplaceAnItemStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/order/CreateANewOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/order/DeleteAnOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/order/GetASingleOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/order/GetAllOrdersStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/order/UpdateAnOrderStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/product/GetAProductStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/product/GetAllCategoryStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/add_an_item_to_cartequest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/create_a_new_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/delete_an_item.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/get_a_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/get_cart_items.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/modify_an_item_in_the_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/cart/replace_an_item_in_the_cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/order/create_new_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/order/delete_an_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/order/get_a_single_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/order/get_all_orders.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/order/update_an_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/product/get_a_product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/product/get_all_products.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/register/register_user.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/spark-config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cUMpnUZ8vlMnpNbLyR1nKSZfQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/workspace/jira-api-test-rest-assured-team1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\workspace\simple-grocery-store-API\src\test\resources\features\register" />
+      <recent name="C:\Users\ASUS\workspace\simple-grocery-store-API\src\test\resources\features\product" />
+      <recent name="C:\Users\ASUS\workspace\simple-grocery-store-API\src\test\resources\features\cart" />
+      <recent name="C:\Users\ASUS\workspace\simple-grocery-store-API\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: delete_an_order">
+    <configuration name="Feature: delete_an_order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/order/delete_an_order.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="simple-grocery-store-API" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: delete_an_order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: get_a_single_order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/order/get_a_single_order.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="simple-grocery-store-API" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: get_a_single_order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: get_all_orders" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/order/get_all_orders.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="simple-grocery-store-API" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: get_all_orders" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: update_an_order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/order/update_an_order.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="simple-grocery-store-API" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: update_an_order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validate to create a new order functionality" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/order/get_all_orders.feature" />
+      <option name="GLUE" value="stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="simple-grocery-store-API" />
+      <option name="NAME_FILTER" value="^Validate to create a new order functionality$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validate to create a new order functionality$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate to create a new order functionality" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: delete_an_order" />
+        <item itemvalue="Cucumber Java.Feature: update_an_order" />
+        <item itemvalue="Cucumber Java.Feature: get_a_single_order" />
+        <item itemvalue="Cucumber Java.Feature: get_all_orders" />
+        <item itemvalue="Cucumber Java.Scenario: Validate to create a new order functionality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0275de6c-7941-44f2-90c2-bc3c72bd5bb7" name="Changes" comment="" />
+      <created>1708161891593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708161891593</updated>
+    </task>
+    <servers />
+  </component>
+</project>
